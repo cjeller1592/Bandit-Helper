@@ -2,6 +2,8 @@
 
 This script automates the process of logging into levels and storing level passwords for the OverTheWire wargame [Bandit](https://overthewire.org/wargames/bandit/).
 
+It allows you to focus on playing Bandit and less about logging on & password management.
+
 ## Requirements
 
 - A `pass` folder for storing Bandit level passwords
